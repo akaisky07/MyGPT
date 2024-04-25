@@ -28,7 +28,9 @@ The model was fine-tuned on data sourced from shawhin/shawgpt-youtube-comments, 
 Video Link:
 
 Video 1:
+
 [Screencast from 25-04-24 12:31:57 PM IST.webm](https://github.com/akaisky07/MyGPT/assets/104855741/9ee15d7b-1001-4a63-9e6b-c530c9581721)
 
 Video 2:
+
 [Screencast from 28-01-24 12:40:25 PM IST.webm](https://github.com/akaisky07/MyGPT/assets/104855741/58ca387b-6ee7-4c29-9d89-639649ebfede)
